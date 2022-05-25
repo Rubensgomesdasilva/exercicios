@@ -77,7 +77,7 @@ namespace exercicio1
                 }
                 i++;
             }while(i < vet);  
-            Console.ReadLine();    
+            Console.ReadLine();//teste vs code  
         }
     }
 }
